@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/BaseLibrary" />
+            <option value="$PROJECT_DIR$/BaseLibrary/AppUpdate" />
+            <option value="$PROJECT_DIR$/BaseLibrary/BaseCommonLib" />
+            <option value="$PROJECT_DIR$/BaseLibrary/BaseMvpLib" />
+            <option value="$PROJECT_DIR$/BaseLibrary/BleLib" />
+            <option value="$PROJECT_DIR$/BaseLibrary/PhotoPicker" />
+            <option value="$PROJECT_DIR$/BaseLibrary/PullToRefresh" />
+            <option value="$PROJECT_DIR$/BaseLibrary/RollViewPager" />
+            <option value="$PROJECT_DIR$/BaseLibrary/TabLayout" />
+            <option value="$PROJECT_DIR$/BaseLibrary/UserAnalysis" />
+            <option value="$PROJECT_DIR$/BaseLibrary/UserGuide" />
+            <option value="$PROJECT_DIR$/BaseLibrary/Wheel" />
+            <option value="$PROJECT_DIR$/BaseLibrary/Zbar" />
+            <option value="$PROJECT_DIR$/TimePickerDemo" />
+            <option value="$PROJECT_DIR$/ZiizaaLibrary" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/loginactivity" />
+            <option value="$PROJECT_DIR$/mainModuel" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

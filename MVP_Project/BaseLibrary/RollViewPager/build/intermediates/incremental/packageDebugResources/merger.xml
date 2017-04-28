@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="F:\develop\studio_space\Ziizaa\BaseLibrary\RollViewPager\src\main\res"/><source path="F:\develop\studio_space\Ziizaa\BaseLibrary\RollViewPager\build\generated\res\rs\debug"/><source path="F:\develop\studio_space\Ziizaa\BaseLibrary\RollViewPager\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="F:\develop\studio_space\Ziizaa\BaseLibrary\RollViewPager\src\debug\res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="F:\develop\studio_space\Ziizaa\BaseLibrary\RollViewPager\src\main\res"><file name="scale_with_alpha" path="F:\develop\studio_space\Ziizaa\BaseLibrary\RollViewPager\src\main\res\animator\scale_with_alpha.xml" qualifiers="" type="animator"/><file name="black_background" path="F:\develop\studio_space\Ziizaa\BaseLibrary\RollViewPager\src\main\res\drawable\black_background.xml" qualifiers="" type="drawable"/><file name="gray_radius" path="F:\develop\studio_space\Ziizaa\BaseLibrary\RollViewPager\src\main\res\drawable\gray_radius.xml" qualifiers="" type="drawable"/><file name="white_radius" path="F:\develop\studio_space\Ziizaa\BaseLibrary\RollViewPager\src\main\res\drawable\white_radius.xml" qualifiers="" type="drawable"/><file name="roll_viewpager_banner" path="F:\develop\studio_space\Ziizaa\BaseLibrary\RollViewPager\src\main\res\layout\roll_viewpager_banner.xml" qualifiers="" type="layout"/><file path="F:\develop\studio_space\Ziizaa\BaseLibrary\RollViewPager\src\main\res\values\attr.xml" qualifiers=""><declare-styleable name="Banner">
+        <attr format="integer" name="delay_time"/>
+        <attr format="integer" name="scroll_time"/>
+        <attr format="boolean" name="is_auto_play"/>
+        <attr format="color|reference" name="title_background"/>
+        <attr format="color" name="title_textcolor"/>
+        <attr format="dimension" name="title_textsize"/>
+        <attr format="dimension" name="title_height"/>
+        <attr format="dimension" name="indicator_width"/>
+        <attr format="dimension" name="indicator_height"/>
+        <attr format="dimension" name="indicator_margin"/>
+        <attr format="reference" name="indicator_drawable_selected"/>
+        <attr format="reference" name="indicator_drawable_unselected"/>
+        <attr format="reference" name="layout_id"/>
+        <attr format="enum" name="image_scale_type">
+            <enum name="center" value="0"/>
+            <enum name="center_crop" value="1"/>
+            <enum name="center_inside" value="2"/>
+            <enum name="fit_center" value="3"/>
+            <enum name="fit_end" value="4"/>
+            <enum name="fit_start" value="5"/>
+            <enum name="fit_xy" value="6"/>
+            <enum name="matrix" value="7"/>
+        </attr>
+        
+        
+    </declare-styleable></file><file path="F:\develop\studio_space\Ziizaa\BaseLibrary\RollViewPager\src\main\res\values\ids.xml" qualifiers=""><item name="numIndicatorInside" type="id"/><item name="bannerTitle" type="id"/><item name="indicatorInside" type="id"/><item name="bannerContainer" type="id"/><item name="circleIndicator" type="id"/><item name="bannerViewPager" type="id"/><item name="titleView" type="id"/><item name="numIndicator" type="id"/></file><file path="F:\develop\studio_space\Ziizaa\BaseLibrary\RollViewPager\src\main\res\values\strings.xml" qualifiers=""><string name="app_name">RollViewPager</string></file></source><source path="F:\develop\studio_space\Ziizaa\BaseLibrary\RollViewPager\build\generated\res\rs\debug"/><source path="F:\develop\studio_space\Ziizaa\BaseLibrary\RollViewPager\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="F:\develop\studio_space\Ziizaa\BaseLibrary\RollViewPager\src\debug\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="Banner"><attr format="integer" name="delay_time"/><attr format="integer" name="scroll_time"/><attr format="boolean" name="is_auto_play"/><attr format="color|reference" name="title_background"/><attr format="color" name="title_textcolor"/><attr format="dimension" name="title_textsize"/><attr format="dimension" name="title_height"/><attr format="dimension" name="indicator_width"/><attr format="dimension" name="indicator_height"/><attr format="dimension" name="indicator_margin"/><attr format="reference" name="indicator_drawable_selected"/><attr format="reference" name="indicator_drawable_unselected"/><attr format="reference" name="layout_id"/><attr format="enum" name="image_scale_type">
+            <enum name="center" value="0"/>
+            <enum name="center_crop" value="1"/>
+            <enum name="center_inside" value="2"/>
+            <enum name="fit_center" value="3"/>
+            <enum name="fit_end" value="4"/>
+            <enum name="fit_start" value="5"/>
+            <enum name="fit_xy" value="6"/>
+            <enum name="matrix" value="7"/>
+        </attr></declare-styleable></configuration></mergedItems></merger>

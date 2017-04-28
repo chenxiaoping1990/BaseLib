@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "F:\\develop\\studio_space\\Ziizaa\\BaseLibrary\\Wheel\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c1c66c3ecec2b00630f25dfec595664fbafb117\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "F:\\develop\\studio_space\\Ziizaa\\BaseLibrary\\Wheel\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c1c66c3ecec2b00630f25dfec595664fbafb117\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "F:\\develop\\studio_space\\Ziizaa\\BaseLibrary\\Wheel\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_in_bottom.xml",
+        "source": "F:\\develop\\studio_space\\Ziizaa\\BaseLibrary\\Wheel\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_in_bottom.xml"
+    },
+    {
+        "merged": "F:\\develop\\studio_space\\Ziizaa\\BaseLibrary\\Wheel\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c1c66c3ecec2b00630f25dfec595664fbafb117\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "F:\\develop\\studio_space\\Ziizaa\\BaseLibrary\\Wheel\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c1c66c3ecec2b00630f25dfec595664fbafb117\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "F:\\develop\\studio_space\\Ziizaa\\BaseLibrary\\Wheel\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c1c66c3ecec2b00630f25dfec595664fbafb117\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "F:\\develop\\studio_space\\Ziizaa\\BaseLibrary\\Wheel\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_out_bottom.xml",
+        "source": "F:\\develop\\studio_space\\Ziizaa\\BaseLibrary\\Wheel\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_out_bottom.xml"
+    },
+    {
+        "merged": "F:\\develop\\studio_space\\Ziizaa\\BaseLibrary\\Wheel\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c1c66c3ecec2b00630f25dfec595664fbafb117\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "F:\\develop\\studio_space\\Ziizaa\\BaseLibrary\\Wheel\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c1c66c3ecec2b00630f25dfec595664fbafb117\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\develop\\studio_space\\Ziizaa\\BaseLibrary\\Wheel\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c1c66c3ecec2b00630f25dfec595664fbafb117\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "F:\\develop\\studio_space\\Ziizaa\\BaseLibrary\\Wheel\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c1c66c3ecec2b00630f25dfec595664fbafb117\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\develop\\studio_space\\Ziizaa\\BaseLibrary\\Wheel\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c1c66c3ecec2b00630f25dfec595664fbafb117\\output\\res\\anim\\abc_fade_in.xml"
+    }
+]

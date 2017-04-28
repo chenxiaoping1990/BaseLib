@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/BaseLibrary/BaseCommonLib/src/main/java/com/lib/common/coder/AESCoder.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BaseLibrary/BaseCommonLib/src/main/java/com/lib/common/coder/Base64Coder.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BaseLibrary/BaseCommonLib/src/main/java/com/lib/common/coder/DES3Coder.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BaseLibrary/BaseCommonLib/src/main/java/com/lib/common/coder/DESCoder.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BaseLibrary/BaseCommonLib/src/main/java/com/lib/common/coder/HexCoder.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BaseLibrary/BaseCommonLib/src/main/java/com/lib/common/coder/MD5Coder.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BaseLibrary/BaseCommonLib/src/main/java/com/lib/common/coder/RSACoder.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BaseLibrary/BaseCommonLib/src/main/java/com/lib/common/tool/ApkUtils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BaseLibrary/BaseCommonLib/src/main/java/com/lib/common/tool/AppManager.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BaseLibrary/BaseCommonLib/src/main/java/com/lib/common/tool/ArrayUtils.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/BaseLibrary/BaseCommonLib/src/main/java/com/lib/common/tool/CustomCountDownTimer.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BaseLibrary/BaseCommonLib/src/main/java/com/lib/common/tool/DateTimeUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BaseLibrary/BaseCommonLib/src/main/java/com/lib/common/tool/DeviceUtils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BaseLibrary/BaseCommonLib/src/main/java/com/lib/common/tool/ExternalStorage.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BaseLibrary/BaseCommonLib/src/main/java/com/lib/common/tool/FileUtils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BaseLibrary/BaseCommonLib/src/main/java/com/lib/common/tool/IntentUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/BaseLibrary/BaseCommonLib/src/main/java/com/lib/common/tool/ListUtils.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/BaseLibrary/BaseCommonLib/src/main/java/com/lib/common/tool/ManifestUtils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BaseLibrary/BaseCommonLib/src/main/java/com/lib/common/tool/MapUtils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BaseLibrary/BaseCommonLib/src/main/java/com/lib/common/tool/NetUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BaseLibrary/BaseCommonLib/src/main/java/com/lib/common/tool/NumberUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BaseLibrary/BaseCommonLib/src/main/java/com/lib/common/tool/ObjectUtils.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/BaseLibrary/BaseCommonLib/src/main/java/com/lib/common/tool/ResourceUtils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BaseLibrary/BaseCommonLib/src/main/java/com/lib/common/tool/SDCardTool.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BaseLibrary/BaseCommonLib/src/main/java/com/lib/common/tool/ShellUtils.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/BaseLibrary/BaseCommonLib/src/main/java/com/lib/common/tool/SpUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BaseLibrary/BaseCommonLib/src/main/java/com/lib/common/tool/StringUtils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BaseLibrary/BaseCommonLib/src/main/java/com/lib/common/tool/TUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BaseLibrary/BaseMvpLib/src/main/java/com/lib/mvp/base/BaseFragment.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BaseLibrary/BaseMvpLib/src/main/java/com/lib/mvp/base/BaseFragmentAdapter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/BaseLibrary/BaseMvpLib/src/main/java/com/lib/mvp/base/BaseModel.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/BaseLibrary/BaseMvpLib/src/main/java/com/lib/mvp/base/BasePresenter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BaseLibrary/BaseMvpLib/src/main/java/com/lib/mvp/base/BaseView.java" charset="UTF-8" />
+  </component>
+</project>

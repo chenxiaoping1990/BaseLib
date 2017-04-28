@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data></data>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:context="com.timepicker.demo.MainActivity">
+
+        <Button
+            android:id="@+id/btn_all"
+            android:layout_width="88dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:text="@string/all"
+            tools:layout_editor_absoluteX="8dp"
+            tools:layout_editor_absoluteY="81dp" />
+
+        <com.lib.loopview.LoopView
+            android:id="@+id/loop_view"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:layout_alignParentBottom="true" />
+    </RelativeLayout>
+</layout>
+
